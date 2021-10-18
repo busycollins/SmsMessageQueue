@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDVP+tJL5lhznns4I3T3CEU3XSjV83j6pudu4KCZaXTtzjH8RY4rY17B9TPqEv4JsqtMJ5zCaqF3+lJgNhoPOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chibuike.nwaogugu\\Documents\\PERSONAL PROJECTS\\SmSQueue\\SmSQueue.Core\\SmSQueue.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chibuike.nwaogugu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
